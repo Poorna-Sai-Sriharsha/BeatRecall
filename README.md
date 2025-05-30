@@ -5,6 +5,7 @@ BeatRecall is an interactive web-based rhythm memory game where players test the
 Experience the game live at: https://poorna-sai-sriharsha.github.io/BeatRecall/
 
 ## 📸 Screenshots
+![BeatRecall UI](BeatRecall.png)
 
 ## ✨ Features
 - ✅ Play drum sounds (kick, snare, hi-hat, tom, clap, cowbell) via clicks or keyboard inputs (K, S, H, T, P, B).
